@@ -1,0 +1,6 @@
+Kafu [huakui niao]
+R
+RD
+0 0 0 1
+Entering condition is abc abc abc...
+Specific ability is abc abc abc...
